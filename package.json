@@ -1,13 +1,13 @@
 {
   "name": "pelumi",
   "version": "1.0.0",
-  "description": "crud",
+  "description": "pelumi",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "code with max",
+  "author": "code with pelumi",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
